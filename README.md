@@ -335,3 +335,5 @@ func main() -> i32 {
 4. **Rich Type System**: Built-in support for common numerical operations
 5. **Composable**: Small pieces combine in obvious ways
 6. **Self-Documenting**: Code clearly expresses intent and constraints
+
+## Designed my Sean Southard
