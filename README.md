@@ -336,4 +336,5 @@ func main() -> i32 {
 5. **Composable**: Small pieces combine in obvious ways
 6. **Self-Documenting**: Code clearly expresses intent and constraints
 
-## Designed my Sean Southard
+## Designed By Sean Southard
+
